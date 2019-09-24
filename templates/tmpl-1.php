@@ -18,9 +18,9 @@
     <a href="./index.php"><img class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.5s" src="./img/logo.png"
                                alt=""></a>
     <ul>
-        <li data-wow-duration="1s" data-wow-delay="0.5s" class="wow bounceInDown"><a href="/php/php_2?page=main">Maine</a></li>
-        <li data-wow-duration="1s" data-wow-delay="0.7s" class="wow bounceInDown"><a href="/php/php_2?page=contacts">Contacts</a></li>
-        <li data-wow-duration="1s" data-wow-delay="0.9s" class="wow bounceInDown"><a href="/php/php_2?page=portfolio">Portfolio</a></li>
+        <li data-wow-duration="1s" data-wow-delay="0.5s" class="wow bounceInDown"><a href="/?page=main">Maine</a></li>
+        <li data-wow-duration="1s" data-wow-delay="0.7s" class="wow bounceInDown"><a href="/?page=contacts">Contacts</a></li>
+        <li data-wow-duration="1s" data-wow-delay="0.9s" class="wow bounceInDown"><a href="/?page=portfolio">Portfolio</a></li>
         <li data-wow-duration="1s" data-wow-delay="0.9s" class="wow bounceInDown"><a href="tel:+1234567890"> Call Us Free !</a></li>
     </ul>
     </nav>
